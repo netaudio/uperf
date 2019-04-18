@@ -1,4 +1,7 @@
 # Quickstart
+chmod +x bootstrap
+./bootstrap
+yum install -y lksctp-tools-devel
 
 Please visit [uperf.org](http://www.uperf.org) for the latest information
 
